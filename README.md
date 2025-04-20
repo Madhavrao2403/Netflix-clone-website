@@ -2,7 +2,7 @@
 
 > A responsive **Netflix landing page** built using only **HTML** and **CSS** to practice and strengthen my frontend development skills.
 
-![Netlfix Clone Banner](assets/thumbnail.png) 
+![Netlfix Clone Banner](assets/thumbnai.png) 
 
 ## 🔥 Features
 - Responsive layout just like Netflix
