@@ -746,10 +746,14 @@ footer p a{
     }
 
     .mail{
-        width: 350px;
+        width: 330px;
     }
 
     .form-det>button{
-        padding: 12px 78px;
+        padding: 12px 55px;
+    }
+
+    .mail input[type="email"]{
+        padding: 15px 80px 16px 14px;
     }
 }
